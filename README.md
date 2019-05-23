@@ -1,4 +1,4 @@
-# Music_streaming_platform_capstone
+# Song recommendation system on music streaming platform
 Project summary
 
 Musicbox is an anonymous music streaming platform. Customer churn is a key factor limits revenue increase of this platform. Thus, it is critical to identify user who most likely churn, and then recommend songs user might interested to reduce churn rate. In this project, I have two major goals. First, I built classification models that predict which user will churn (stop using music service) in coming two weeks. Second, various song recommendation engines were constructed based on collaborative filtering.
